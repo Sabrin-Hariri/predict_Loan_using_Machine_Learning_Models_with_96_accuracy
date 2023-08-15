@@ -1,8 +1,8 @@
 # predict_Loan_using_Machine_Learning_Models_with_96_accuracy
 
-![ANN_LOSS](https://github.com/Sabrin-Hariri/predict_Loan_using_Machine_Learning_Models_with_96_accuracy/assets/120058651/59ac99c8-86aa-40b7-9234-232b0f443c30)
-
-![ANN_ACCURACY](https://github.com/Sabrin-Hariri/predict_Loan_using_Machine_Learning_Models_with_96_accuracy/assets/120058651/75146127-c7c3-4091-84a9-2b40ae1c6535)
+ANN_LOSS & ANN_ACCURACY : 
+![download](https://github.com/Sabrin-Hariri/predict_Loan_using_Machine_Learning_Models_with_96_accuracy/assets/120058651/397fa265-aaf1-46eb-8413-e08ef1e566ba)
+![Uploading download (1).png…]()
 
 THE END RESULTE :
 
